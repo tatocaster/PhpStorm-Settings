@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e280e46-1a78-4732-afcb-67c6ee73d20e" name="emoney" url="http://localhost/html/emoney/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="bae0fd01-7743-44b9-b265-a1aa47d429fc" name="emoneyUpgraded" url="http://localhost/emoneyUpgraded">
+        <fileTransfer port="0" mountedRoot="/var/www/html/emoneyUpgraded" accessType="MOUNT" />
+      </webServer>
+      <webServer id="872850e5-8603-45bf-ab3f-55b99735e513" name="emoneyUpgraded" url="http://localhost/emoneyUpgraded">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

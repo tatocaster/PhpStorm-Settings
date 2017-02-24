@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="91.234.228.250" />
+    <option name="PROXY_PORT" value="8080" />
+    <option name="PROXY_EXCEPTIONS" value="91.234.228.250:8080  *.lb.ge;*.pbg.ge;192.168.7.*;192.168.56.*;192.168.35.*;192.168.40.*;10.20.*.*;10.13.88.*;10.70.71.10;gpss.nbg.gov.ge;gpss-test.nbg.gov.ge;192.168.21.*;qms.justice.gov.ge;92.241.79.142;91.234.228.250.*;91.234.228.250" />
+  </component>
+</application>
